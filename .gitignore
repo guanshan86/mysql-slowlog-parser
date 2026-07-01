@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+
+# Claude
+.claude/
+
+# Build output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db

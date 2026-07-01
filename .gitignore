@@ -17,3 +17,6 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Do not commit test files
+parser/parser_test.go

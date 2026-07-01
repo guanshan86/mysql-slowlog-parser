@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/eopenio/slowlog-parser/log"
-	"github.com/eopenio/slowlog-parser/parser"
+	"github.com/guanshan86/mysql-slowlog-parser/log"
+	"github.com/guanshan86/mysql-slowlog-parser/parser"
 )
 
 func main() {

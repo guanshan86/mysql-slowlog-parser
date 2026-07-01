@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eopenio/slowlog-parser/log"
+	"github.com/guanshan86/mysql-slowlog-parser/log"
 )
 
 // Regular expressions to match important lines in slow log.
